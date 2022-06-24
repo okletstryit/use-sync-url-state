@@ -1,4 +1,4 @@
-import { getNewBrowserUrlParamsObj } from 'frontendReact/hooks/useUrlSync/v1.0/utils/getNewBrowserUrlParamsObj';
+import { getNewBrowserUrlParamsObj } from '../getNewBrowserUrlParamsObj';
 import { parseDate } from 'frontendReact/utils/dates/dates';
 
 test('Returns proper object with renamed URL params and converters', () => {
