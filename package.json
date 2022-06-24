@@ -1,0 +1,11 @@
+{
+  "name": "use-sync-url-state",
+  "version": "0.0.1",
+  "description": "Keeps your url params in sync with react state",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
